@@ -8,13 +8,14 @@ The data for this project was sourced from the tennis_atp repository on GitHub. 
 Model
 The model is a sequential neural network built with TensorFlow. It has the following layers:
 
-Dense layer with 256 units and ReLU activation
-Dropout layer with a rate of 0.2
-Dense layer with 128 units and Leaky ReLU activation
-Dropout layer with a rate of 0.2
-Dense layer with 50 units and ReLU activation
-Dropout layer with a rate of 0.2
-Dense layer with 1 unit and sigmoid activation
+- Dense layer with 256 units and ReLU activation
+- Dropout layer with a rate of 0.2
+- Dense layer with 128 units and Leaky ReLU activation
+- Dropout layer with a rate of 0.2
+- Dense layer with 50 units and ReLU activation
+- Dropout layer with a rate of 0.2
+- Dense layer with 1 unit and sigmoid activation
+
 The model is compiled with the Adam optimizer and binary cross-entropy loss function.
 
 Results
