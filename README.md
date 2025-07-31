@@ -25,3 +25,7 @@ How to Use
 To use this project, you will need to have Python and TensorFlow installed. You will also need to download the data from the [tennis_atp](https://github.com/JeffSackmann/tennis_atp) repository.
 
 Once you have the data, you can run the notebook to train the model and make predictions.
+
+
+
+_note* it was made for learning purposes_
